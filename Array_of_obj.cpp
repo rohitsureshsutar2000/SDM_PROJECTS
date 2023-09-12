@@ -8,18 +8,18 @@ class Employee
 	public :
 		void getData()
 		{
-			cout<<"Enter ID :"<<endl;
+			cout<<"Enter ID :- "<<endl;
 			cin>>emp_id;
-			cout<<"Enter Name :"<<endl;
+			cout<<"Enter Name :- "<<endl;
 			cin>>name;
-			cout<<"Enter Age :"<<endl;
+			cout<<"Enter Age :- "<<endl;
 			cin>>age;
 		}
 		void Display()
 		{
-			cout<<"Id : "<<emp_id<<endl;
-			cout<<"Name : "<<name<<endl;
-			cout<<"Age : "<<age<<endl;
+			cout<<"Id :- "<<emp_id<<endl;
+			cout<<"Name :- "<<name<<endl;
+			cout<<"Age :- "<<age<<endl;
 		}
 };
 

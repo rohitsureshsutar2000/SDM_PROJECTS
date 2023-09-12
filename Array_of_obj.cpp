@@ -30,10 +30,12 @@ int main()
 	Employee array [3];
 	for(int i=0; i<3; i++)
 	{
+		cout<<"Enter "<<i<<"th Record :";
 		array[i].getData();
 	}
 		for(int i=0; i<3; i++)
 	{
+		cout<<i<<"th Record :";
 		array[i].Display();
 	}
 

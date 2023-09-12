@@ -22,10 +22,7 @@ class Employee
 			cout<<"Name :- "<<name<<endl;
 			cout<<"Age :- "<<age<<endl;
 		}
-  void endProgram()
-  {
-   return 0;
-  }
+  
 };
 
 int main()
@@ -40,5 +37,5 @@ int main()
 		array[i].Display();
 	}
 
- endProgram();
+ return 0;
 }

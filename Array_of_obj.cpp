@@ -14,6 +14,7 @@ class Employee
 			cin>>name;
 			cout<<"Enter Age :- "<<endl;
 			cin>>age;
+			
 		}
 		void Display()
 		{

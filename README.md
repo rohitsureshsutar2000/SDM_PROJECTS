@@ -1,4 +1,10 @@
 # SDM_PROJECTS
-***Welcome***
-> _Hello Everyone!!_
-> We just started our project contributing in the IT Domain.
+#E-Commerce Website
+
+###Overview :
+***To make user-friendly e-commerce website to expand the client business and boost the yield in this continuously growing venture.***
+
+###Objective :
+-
+
+

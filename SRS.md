@@ -55,7 +55,9 @@ The portal will backup the students data and faculty data on regular basis.
 During exam hours system will maintain its functional proces by managing load balacning .
 
 Availability:
-
+Server availability 24*7.
 
 Maintainbility:
+
+Efficiency:
 

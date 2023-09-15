@@ -60,4 +60,11 @@ Server availability 24*7.
 Maintainbility:
 
 Efficiency:
+On the time of exam every student will have same response time without any delay and load will be distributed on multiple server.
+
+Scalability:
+System will provide same and versatile exprience to students as well as faculty members.
+
+Accessibility:
+No annonymous person other students and administrator can access the portal. The authentication must be done by checking unique ID and PASSWORD. Students can access their results, and faculty members can analyse students growth 
 

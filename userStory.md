@@ -1,7 +1,7 @@
 #UserStory#
-As a student, I want to see Exam schedule time.
-As a student, I want remaining time timer.
-As a student, I want to see my remaining, attempted and marked quetions.
+-As a student, I want to see Exam schedule time.
+-As a student, I want remaining time timer.
+-As a student, I want to see my remaining, attempted and marked quetions.
 As a student, I want to see 5 minutes remaining alert on screen. 
 As a student, I want receive mail for completing exam.
 As a student, I want receive question paper after exam.

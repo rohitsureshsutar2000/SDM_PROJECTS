@@ -1,14 +1,20 @@
-**Title:** Syestem Requirement Specification for Online Assessement Portal for CDAC.
+**Title:** 
 
-**Team:** Euductional Institute, Students, Architect,Business Analyst, Quality Assurance Team, System Analyst.
+Syestem Requirement Specification for Online Assessement Portal for CDAC.
+
+**Team:** 
+
+Euductional Institute, Students, Architect,Business Analyst, Quality Assurance Team, System Analyst.
 
 **Objective(Purpose) :**
+
 The online Assessement Portal evalution based web application s intened to provide complete solution for Eductional institute,
 recuritment drive organisation and Students through single portal. It will enable institute and faculty members to asses students
 based on there performence in their respective selected fields.
 
 
 **Scope:**
+
 This portal allows faculty members to conduct and evaluate exam for students for respective modules.
 Students will be able to review their exam as the evalution by faculty are comleted and can raise there 
 concerns regarding different issues regarding evalution if present their.

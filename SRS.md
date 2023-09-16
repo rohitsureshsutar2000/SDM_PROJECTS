@@ -1,20 +1,20 @@
-**Title: Syestem Requirement Specification for Online Assessement Portal for CDAC.
+**Title:** Syestem Requirement Specification for Online Assessement Portal for CDAC.
 
-**Team:Euductional Institute, Students, Architect,Business Analyst, Quality Assurance Team, System Analyst.
+**Team:** Euductional Institute, Students, Architect,Business Analyst, Quality Assurance Team, System Analyst.
 
-**Objective(Purpose) :
+**Objective(Purpose) :**
 The online Assessement Portal evalution based web application s intened to provide complete solution for Eductional institute,
 recuritment drive organisation and Students through single portal. It will enable institute and faculty members to asses students
 based on there performence in their respective selected fields.
 
 
-**Scope:
+**Scope:**
 This portal allows faculty members to conduct and evaluate exam for students for respective modules.
 Students will be able to review their exam as the evalution by faculty are comleted and can raise there 
 concerns regarding different issues regarding evalution if present their.
 
 
-**Functional Requirments:
+**Functional Requirments:**
 
 Faculty members will have administor login which allows them to upload question paper for the different modules
 as per each student opted course. the students will have their auto generated unique id login which will be generated 
@@ -36,9 +36,9 @@ only on the date of result anouncement which will be provided by the administrat
  all of this data will be available to the head of the institute in the form of garph or chart which is based on the 
 sudent pass and fail data in different modules of different courses.
 
-**Non Functional Requirment:
+**Non Functional Requirment:**
 
-**Security:
+**Security:**
 
 Only student who have unique ID and Password will be allowed to give exam.It will be dual verification process in
 which they will be provided will unique exam link 30 minutes before the start of exam and after that when they visit the
@@ -49,45 +49,45 @@ The faculty members will have seprate administrator login for the portal which w
 centre based or specified system only.
 
 
-**Reliability:
+**Reliability:**
 
 If system or any technical failure occurs during the process of exam the server will still have 
 all the data backup which is restored and the exam can be resumed from the same time the failure occured.
 The portal will backup the students data and faculty data on regular basis.
 During exam hours system will maintain its functional proces by managing load balacning .
 
-**Availability:
+**Availability:**
 
 Server availability 24*7.
 
-**Maintainbility:
+**Maintainbility:**
 
 A Commercial database software will be used to maintain System data Persistence. IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers. Separate enviornment will be maintained for system for isolation in production, testing, and development.
 
-**Efficiency:
+**Efficiency:**
 
 On the time of exam every student will have same response time without any delay and load will be distributed on multiple server.
 
-**Scalability:
+**Scalability:**
 
 System will provide same and versatile exprience to students as well as faculty members.
 
-**Accessibility:
+**Accessibility:**
 
 No annonymous person other students and administrator can access the portal. The authentication must be done by checking unique ID and PASSWORD. Students can access their results, and faculty members can analyse students growth 
 
-**Portability:
+**Portability:**
 
 Web Application System will provide portable User Interface ( HTML, CSS, JS) through users will be able to access online assessment portal. System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP).
 
-**Durability:
+**Durability:**
 
 System will retain users ongoing exam for 5 minutes even though user loose internet connection and join again. User will be able to view their assessment report or marks whenever needed. System will implement backup and recovery for retaining all the users and administrator data over time.
 
-**Modularity:
+**Modularity:**
 
 System will be designed and developed using reusable, independent or dependent different online assessment portal in the form of modules. These modules will be loosely coupled and highly cohesive. System will contain Notification option, result, assessment report, feedback system, query system , administrator specific module, faculty specific module.
 
-**Safety:
+**Safety:**
 
 online assessment portal will be secure from malicious attack, fishing. online assessment portal functionalilites are protected from outside with proper firewall configuration. online assessment portal will be always kept updated with latest anit virus software. Assessment data will be backed up periodically to ensure safty of data using increamental back up strategy.

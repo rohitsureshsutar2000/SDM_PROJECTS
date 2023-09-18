@@ -11,3 +11,13 @@
 - As a faculty-member, I should be able to schedule and reschedule exams.
 - As a administrator, I should be able to terminate the exam of selected student not following malicious guidelines.
 - As a teacher, I want to generate assessment report, so that I can evaluate student performance.
+- As a cyber security team, I want to able to add security features including firewall so that I would be able to protect servers from phishing and vulnerable attacks.
+- As an exam management team , I want to able to shuffle questions for each student so that I can prevent malicious practice.
+- As a student, I want to able to view instructions of examination, so that I'll be informative very well about exam.
+- As an Exam management team, I need authority so that no student should be able to login before the scheduled time.
+- As a student , I want to able to report question If there is a mistake in question options so that I can report that question.
+- As an exam management team, I should be notified for the feedbacks and reports that have generated from students side so that I can review/rectify the questions.
+- As a student I want my answers to be saved automatically.
+- As a student I will be able to change the options selected by me.
+- As a student I will be able to submit the assessment before time limit so that i will be able to complete the assessment.
+- As a tech support, I want to monitor each an every examination system, so that exam is conducted smoothly.

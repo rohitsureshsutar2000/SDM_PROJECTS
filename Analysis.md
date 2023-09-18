@@ -4,7 +4,7 @@
 - Exam management team
 - Database Management
 
-  **Class Section:**
+**Class Section:**
   - Login page
   - Authentication
   - Candidate
@@ -12,7 +12,7 @@
   - Exam
   - Database
 
-    **Data Members:**
+**Data Members:**
     - Form Number
     - Password
     - Unique ID
